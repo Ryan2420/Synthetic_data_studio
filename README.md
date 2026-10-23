@@ -162,7 +162,7 @@ Potential extensions include:
 
 ## Author
 
-**Ryan Harmel**
+**Rayan Harmel**
 
 AI Engineering Student | Interested in LLM Engineering and Agentic AI
 
